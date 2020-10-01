@@ -1,2 +1,3 @@
 # p5.play-boilerplate
-Boiler plate for p5.play
+Boiler plate for p5.play.js
+
